@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <menu>
     <category name="Coffee">
         <item>
             <listing>Espresso</listing>
-            <price>3.00</price>
+            <price>3.10</price>
         </item>
         <item>
             <listing>Latte</listing>
@@ -20,12 +20,12 @@
             <price>4.50</price>
         </item>
         <item>
-            <listing>Pumpkin Spicen Frappé</listing>
-            <price>4.50</price>
+            <listing>Pumpkin Spice Frappé</listing>
+            <price>5.00</price>
         </item>
         <item decaf="true">
             <listing>Mint Chocolate Frappé</listing>
-            <price>4.50</price>
+            <price>5.00</price>
         </item>
     </category>
     <category name="Iced Coffee">
@@ -34,14 +34,14 @@
             <price>4.00</price>
         </item>
         <item>
+            <listing>Iced Shaken Espresso</listing>
+            <price>3.80</price>
+        </item>
+        <item decaf="true">
             <listing>Iced Flat White</listing>
             <price>4.10</price>
         </item>
-        <item decaf="true">
-            <listing>Iced Mocha</listing>
-            <price>4.50</price>
-        </item>
-    </category>    
+    </category>
     <category name="Tea">
         <item>
             <listing>Mint</listing>
@@ -49,25 +49,25 @@
         </item>
         <item>
             <listing>Green</listing>
-            <price>2.50</price>
+            <price>2.70</price>
         </item>
         <item decaf="true">
-            <listing>Black</listing>
+            <listing>Breakfast</listing>
             <price>2.50</price>
         </item>
     </category>
     <category name="Deserts">
-    <item>
-            <listing>ChocolateBrownie</listing>
+        <item>
+            <listing>Chocolate Brownie</listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Vanilla Cheescake</listing>
+            <listing>Vanila Cheescake</listing>
             <price>4.50</price>
         </item>
         <item>
             <listing>Carrot Cake</listing>
-            <price>4.00</price>
+            <price>5.00</price>
         </item>
     </category>
 </menu>
